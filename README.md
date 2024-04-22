@@ -1,4 +1,5 @@
 # Nike Website Landing Page Project
+![Nike landing page](https://github.com/Abubakarrrr/Nike-Landing-page/blob/main/nike-landing-page.png)
 
 
 ## Description
@@ -12,7 +13,7 @@ This practice project is a Nike landing page website built using React.js and Ta
 
 ## Installation
 1. Clone the repository: `https://github.com/Abubakarrrr/Nike-Landing-page.git`
-2. Navigate to the project directory: `cd nike-website`
+2. Navigate to the project directory: `cd NIKE_LANDING_PAGE`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and visit: `http://localhost:5173`
